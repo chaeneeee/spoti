@@ -1,0 +1,96 @@
+.top1{
+    border: solid 1px red;
+    height: 80px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+   
+  }
+  
+  .mainlogo{
+  margin-left: 100px;
+  }
+  
+  .navbarleft{
+    position: absolute;
+    right: 0px;
+    text-decoration: none;
+    color: white;
+   
+  }
+  
+  .mainnav{
+    text-decoration: none;
+    color: white;
+   margin-right: 30px;
+    padding: 0 2px;
+    font-weight: 700;
+  }
+  
+  .mainletter{
+    font-size: 146px;
+    line-height: 166px;
+    color: #1ed760;
+    font-weight: 900;
+  }
+  
+  .mainletter2{
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  
+  
+  .maincenter{
+    height: 968px;
+    background-color: rgb(41, 65, 171);
+  padding-top: 130px;
+    font-family: spotify-circular, Helvetica, Arial, sans-serif;
+  }
+  
+  
+  .miniletter{
+    font-family: spotify-circular, Helvetica, Arial, sans-serif;
+    color:#1ed760;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .buttonaera{ text-align: center;
+              margin-top: 30px;
+    
+  }
+  
+  
+  .buttonstyle{
+    background-color: #1ed760;
+    border-radius: 500px;
+    font-size: inherit;
+    color: #2941ab;
+    font-weight: 700;
+    border: none;
+    padding: 14px 32px;
+  
+  }
+  
+  
+  
+  .footer{
+    position: absolute;
+    bottom: 0px;
+    border: solid 1px red;
+    background-color: black;
+    padding-bottom: 20px;
+    width: 100%;
+  
+    
+  }
+  
+  .under{ display: flex;
+         flex-direction: column;
+         padding: 0 15px;
+         
+  
+  }
